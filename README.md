@@ -1,1 +1,1 @@
-# pandas
+# Terminal Ejercicios
